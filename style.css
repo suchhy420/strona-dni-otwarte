@@ -1,0 +1,26 @@
+.main{
+    text-align: center;
+    color: #03295a;
+    font-family: "Amatic SC", sans-serif !important ;
+}
+.plan{
+    color: #03295a;
+    font-family: "Amatic SC", sans-serif !important ;
+    text-align: center;
+}
+body {
+    background-color: rgb(227,6,19);
+    color: #03295a;
+    margin: 0%;
+}
+.opis{
+    background-color: darkred;
+    color: #03295a;
+    text-align: center;
+    font-family: "Lato", Helvetica, Arial, sans-serif;
+    
+}
+.jpg{
+    text-align: center;
+    background-color: rgb(0,119,161);
+}
